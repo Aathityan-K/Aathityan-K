@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aathityan-K
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Science @ Guvi
+- 👀 I’m interested in the world of Data
+- 🌱 I’m currently working as a Data @ QBrainX Inc
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me aathityank@gmail.com
 
